@@ -1,7 +1,7 @@
 # PK-List
 Kullanılan dosya 08_06_2017.xlsx
 
-İller için dbo.Provinces.Table.sql dosyasını çalıştırın.
+İller için dbo.Provinces.Table.sql dosyasını çalıştırın.<br />
 İlçeler için dbo.Districts.Table.sql dosyasını çalıştırın.
 
 <a href="http://postakodu.ptt.gov.tr/Dosyalar/pk_list.zip" target="_blank">Güncel Posta Kodu Özet Tablosunu indirmek için tıklayınız.</a>
