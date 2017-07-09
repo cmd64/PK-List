@@ -1,10 +1,12 @@
 # PK-List
-Türkiye il, ilçe, semt/bucak/belde ve posta kodları. 
-Kullanılan liste 08.06.2017.
+Kullanılan dosya 08_06_2017.xlsx
+
+İller için dbo.Provinces.Table.sql dosyasını çalıştırın.
+İlçeler için dbo.Districts.Table.sql dosyasını çalıştırın.
 
 <a href="http://postakodu.ptt.gov.tr/Dosyalar/pk_list.zip" target="_blank">Güncel Posta Kodu Özet Tablosunu indirmek için tıklayınız.</a>
 
-<h3>Excel'den MSSQL Sunucusuna Aktarma İşlemleri</h3>
+<h3>Güncel Excel'den MSSQL Sunucusuna Aktarma İşlemleri</h3>
 <ol>
 <li>Excel kitaplığını <b>tablo</b> formatına çevirin. <b>İlk satır başlık olarak kullanılsın</b> seçeneği seçili olsun.
 </li><li><b>Microsoft SQL Server Management Studio</b>'dan veritabanı oluşturun ve oluşturduğunuz veritabanına sağ tıklayıp <b>Tasks > Import Data</b> tıklayın.
