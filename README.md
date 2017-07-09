@@ -25,7 +25,7 @@ Kullanılan dosya 08_06_2017.xlsx
 </li><li><b>Next</b> butonuna tıklayın.</li>
 </ol>
 </li><li><b>Specify Table Copy or Query</b> penceresinden <b>Copyy data from one or more tables or views</b> seçin <b>Next</b> tıklayın.
-</li><li><b>Select Source Tables and Views</b> penceresinden <b>Edit Mappings...</b> butonuna tıklayın.
+</li><li><b>Select Source Tables and Views</b> penceresinden <b>Destination</b> bölümüne <b>[dbo].[pk_list]</b> tablo adını yazın <b>Edit Mappings...</b> butonuna tıklayın.
 <ol>
 <li><b>Column Mappings</b> penceresinden <b>Source</b> ve <b>Destination</b> bölümlerini doldurun. <b>Source</b> bölümü Excel tablo başlık adları <b>Destination</b> bölümü SQL tablosundaki kolon adlarıdır.
 <table>
