@@ -19,3 +19,5 @@
 </ul>
 
 <h4><a href="https://github.com/cmd64/PK-List/wiki/G%C3%BCncel-Excel'den-MSSQL-Sunucusuna-Aktarma-%C4%B0%C5%9Flemleri">Güncel Excel'den MSSQL Sunucusuna Aktarma İşlemleri</a></h4>
+
+<img src="https://github.com/cmd64/PK-List/blob/master/TurkeyPKList.PNG?raw=true" />
