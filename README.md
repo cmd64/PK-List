@@ -1,6 +1,6 @@
 # PK-List
 <h3>Verilerin Alındığı Tarih 7.5.2019</h3>
-<h3>Yukarıdaki Tarihteki Güncel Sayılar</h3>
+<h3>Alınan Tarihteki Güncel Sayılar</h3>
 <ul>
 <li><b>İl: 81</b></li>
 <li><b>İlçe: 973</b></li>
