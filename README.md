@@ -9,9 +9,9 @@
 <li><b>Posta Kodu: 73482</b></li>
 </ul>
 
-<h3>Turkey Veritabanını Oluşturun ve Aşağıdaki Seçeneklerden Birini Kullanın</h3>
+<h2>Turkey Veritabanını Oluşturun ve Aşağıdaki Seçeneklerden Birini Kullanın</h2>
 
-<h3>Hazır Veriler İçin Aşağıdaki SQL Dosyalarını Çalıştırın</h3>
+<h3>Hazır Veriler İçin Create Tables & Insert Datas Klasörü İçindeki SQL Dosyalarını Çalıştırın</h3>
 <ul>
 <li><b>İl: dbo.Provinces.Table.Create.Insert.sql</b></li>
 <li><b>İlçe: dbo.Districts.Table.Create.Insert.sql</b></li>
@@ -20,7 +20,7 @@
 <li><b>Posta Kodu: dbo.PostCodes.Create.Insert.Table.sql</b></li>
 </ul>
 
-<h3>MSSQL'den Aktarma Yapacaksanız Aşağıdaki SQL Dosyalarını Çalıştırdıktan Sonra DB.Veri.Aktarim.sql Dosyasını Çalıştırın</h3>
+<h3>MSSQL'den Aktarma Yapacaksanız Create Tables Klasörü İçindeki SQL Dosyalarını Çalıştırdıktan Sonra DB.Veri.Aktarim.sql Dosyasını Çalıştırın</h3>
 <ul>
 <li><b>İl: dbo.Provinces.Table.Create.sql</b></li>
 <li><b>İlçe: dbo.Districts.Table.Create.sql</b></li>
